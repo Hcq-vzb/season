@@ -173,6 +173,59 @@ table {
 .elementor-slideshow__title {
     display: none;
 }
+/* 多语言首页 Hero 背景幻灯（Elementor JS 在本地静态环境不注入 DOM，此处兜底） */
+.elementor-element.elementor-element-552f79b {
+	position: relative;
+	overflow: hidden;
+	min-height: 600px;
+}
+.elementor-element.elementor-element-552f79b > .elementor-background-slideshow {
+	position: absolute;
+	inset: 0;
+	z-index: 0;
+	width: 100%;
+	height: 100%;
+	pointer-events: none;
+}
+.elementor-element.elementor-element-552f79b > .elementor-background-slideshow::before {
+	content: "";
+	position: absolute;
+	inset: 0;
+	z-index: 2;
+	background-color: var(--e-global-color-blocksy_palette_4, #1a1a1a);
+	opacity: 0.4;
+	pointer-events: none;
+}
+.elementor-element.elementor-element-552f79b > .e-con-inner {
+	position: relative;
+	z-index: 3;
+}
+.elementor-element.elementor-element-552f79b .elementor-background-slideshow__slide {
+	position: absolute;
+	inset: 0;
+	opacity: 0;
+	transition: opacity 0.5s ease-in-out;
+	z-index: 0;
+}
+.elementor-element.elementor-element-552f79b .elementor-background-slideshow__slide.elementor-active {
+	opacity: 1;
+	z-index: 1;
+}
+.elementor-element.elementor-element-552f79b .elementor-background-slideshow__slide__image {
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	transform: scale(1);
+}
+.elementor-element.elementor-element-552f79b .elementor-background-slideshow__slide.elementor-active .elementor-background-slideshow__slide__image {
+	animation: npackHeroKenBurnsIn 3s ease-out forwards;
+}
+@keyframes npackHeroKenBurnsIn {
+	from { transform: scale(1); }
+	to { transform: scale(1.12); }
+}
 </style>
 	<meta name="generator" content="WP Rocket 3.21.1" data-wpr-features="wpr_minify_js wpr_minify_css wpr_preload_links wpr_desktop" /><link rel="stylesheet" href="../assets/local-lang-switcher.css" id="npackpm-lang-switcher-css">
 <link rel="stylesheet" href="../assets/live-chat-widget.css" id="kiwl-live-chat-css">
@@ -592,7 +645,15 @@ table {
 		
 		<div class="entry-content is-layout-constrained">
 					<div data-elementor-type="wp-page" data-elementor-id="731" class="elementor elementor-731" data-elementor-post-type="page">
-				<div class="elementor-element elementor-element-552f79b e-flex e-con-boxed e-con e-parent" data-id="552f79b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:4045,&quot;url&quot;:&quot;https:\/\/seasoningpackagingmachinery.com\/wp-content\/uploads\/2025\/10\/2025102006460332.webp&quot;},{&quot;id&quot;:5030,&quot;url&quot;:&quot;https:\/\/seasoningpackagingmachinery.com\/wp-content\/uploads\/2025\/12\/2025121509395827.webp&quot;}],&quot;background_slideshow_slide_duration&quot;:3000,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+				<div class="elementor-element elementor-element-552f79b e-flex e-con-boxed e-con e-parent" data-id="552f79b" data-element_type="container" data-e-type="container" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[{&quot;id&quot;:4045,&quot;url&quot;:&quot;..\/wp-content\/uploads\/2025\/10\/2025102006460332.webp&quot;},{&quot;id&quot;:5030,&quot;url&quot;:&quot;..\/wp-content\/uploads\/2025\/12\/2025121509395827.webp&quot;}],&quot;background_slideshow_slide_duration&quot;:3000,&quot;background_slideshow_ken_burns&quot;:&quot;yes&quot;,&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500,&quot;background_slideshow_ken_burns_zoom_direction&quot;:&quot;in&quot;}">
+					<div class="elementor-background-slideshow" aria-hidden="true" data-npack-hero-slideshow="1">
+						<div class="elementor-background-slideshow__slide elementor-ken-burns elementor-ken-burns--in elementor-active">
+							<div class="elementor-background-slideshow__slide__image" style="background-image:url('../wp-content/uploads/2025/10/2025102006460332.webp');"></div>
+						</div>
+						<div class="elementor-background-slideshow__slide elementor-ken-burns elementor-ken-burns--in">
+							<div class="elementor-background-slideshow__slide__image" style="background-image:url('../wp-content/uploads/2025/12/2025121509395827.webp');"></div>
+						</div>
+					</div>
 					<div data-rocket-location-hash="9df018fcc06d2a8d86518aee4205e42f" class="e-con-inner">
 		<div class="elementor-element elementor-element-4c5eebd e-con-full e-flex e-con e-child" data-id="4c5eebd" data-element_type="container" data-e-type="container">
 				<div class="elementor-element elementor-element-99776d6 elementor-mobile-align-center elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="99776d6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
@@ -1600,6 +1661,37 @@ var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/seasoningpackagingmachine
 <script src="../assets/local-lang-switcher.js"></script>
 <script src="../assets/live-chat-widget.js" defer></script>
 <script src="../assets/resend-inquiry-form.js"></script>
+<script id="npack-hero-slideshow-js">
+(function () {
+  'use strict';
+  var root = document.querySelector('.elementor-element-552f79b');
+  if (!root) return;
+  var box = root.querySelector('[data-npack-hero-slideshow]');
+  if (!box) return;
+  var slides = box.querySelectorAll('.elementor-background-slideshow__slide');
+  if (!slides.length) return;
+  var duration = 3000;
+  var idx = 0;
+  function show(n) {
+    for (var i = 0; i < slides.length; i++) {
+      slides[i].classList.toggle('elementor-active', i === n);
+    }
+    var img = slides[n].querySelector('.elementor-background-slideshow__slide__image');
+    if (img) {
+      img.style.animation = 'none';
+      void img.offsetWidth;
+      img.style.animation = '';
+    }
+  }
+  show(0);
+  if (slides.length > 1) {
+    setInterval(function () {
+      idx = (idx + 1) % slides.length;
+      show(idx);
+    }, duration);
+  }
+})();
+</script>
 </body>
 
 </html>

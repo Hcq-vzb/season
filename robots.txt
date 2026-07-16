@@ -25,5 +25,6 @@ Disallow: /news/sbe-elite
 Disallow: /news/linea-xs
 Disallow: /packaging/serac-
 
+# English-only commercial site
 Sitemap: https://seasoningpackagingmachinery.com/sitemap.xml
 Sitemap: https://seasoningpackagingmachinery.com/sitemap-en.xml

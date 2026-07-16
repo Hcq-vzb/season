@@ -1,0 +1,32 @@
+/* Homepage slider nav fixes for static mirror */
+.block-slider-homepage .swiper-prev,
+.block-slider-homepage .swiper-next {
+  cursor: pointer;
+  border: 0;
+  background: transparent;
+  padding: 0;
+  opacity: 0.95;
+}
+.block-slider-homepage .swiper-prev:hover,
+.block-slider-homepage .swiper-next:hover {
+  opacity: 1;
+}
+@media (min-width: 1024px) {
+  .block-slider-homepage .swiper-prev,
+  .block-slider-homepage .swiper-next {
+    display: block !important;
+    width: 48px;
+    height: 48px;
+    font-size: 42px;
+    color: #fff;
+    top: 50%;
+    margin-top: -24px;
+    z-index: 20;
+  }
+  .block-slider-homepage .swiper-prev {
+    left: 16px;
+  }
+  .block-slider-homepage .swiper-next {
+    right: 56px;
+  }
+}

@@ -1,4 +1,11 @@
 User-agent: *
-Disallow: /
+Allow: /
 
-# Site temporarily under construction
+# Prefer English seasoning site pages
+Disallow: /wp-content/cache/
+Disallow: /hts-cache/
+Disallow: /*/feed/
+Disallow: /*index0816.html
+
+Sitemap: https://seasoningpackagingmachinery.com/sitemap.xml
+Sitemap: https://seasoningpackagingmachinery.com/sitemap-en.xml

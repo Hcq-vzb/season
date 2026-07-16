@@ -1,0 +1,100 @@
+/************************************
+| @ Supression des marge wrapper pour les blocs modulable
+************************************/
+
+/*** Page template Default ***/
+/*
+body.page-template-default .main-content section:not(.custom) >.wrapper{
+	margin-bottom: 0px; 
+}
+*/
+
+/************************************
+| Formulaire de contact WPCF7
+************************************/
+/* Margin liste checbox */
+span.wpcf7-list-item{
+	margin: 0px;
+}
+
+/* Message d'erreur */
+span.wpcf7-not-valid-tip{
+	color: #ff5900;
+    font-style: italic;
+    font-size: 13px;
+    padding-top: 5px;   
+}
+
+.wpcf7-response-output{
+	border: none !important;
+	text-align: center;
+}
+
+.wpcf7-response-output.wpcf7-validation-errors{
+	color: #ff5900;	
+}
+
+.wpcf7-response-output.wpcf7-validation-success{
+	color: #184287;	
+}
+
+/* Remove BR */
+.wpcf7 .field label + br{
+	display: none;
+}
+
+.wpcf7 .error-msg{
+	display: none;
+}
+
+
+/************************************
+| Bloc citation include span
+************************************/
+/*
+.block-citation span {
+	display: inline-block;
+    color: #184287;
+    font-size: 2.4rem;
+    display: block;
+    margin-bottom: 10px;
+}
+
+@media (min-width: 768px){
+
+	.block-citation span {
+		display: inline-block;
+	    font-size: 3.6rem;
+	}
+}*/
+
+/************************************
+| fix | Heading title bloc + marge paragraphe rte
+************************************/
+.heading-title{
+	margin-bottom: 0px !important;
+}
+
+/*
+section .rte p{
+	margin-bottom: 15px !important; 
+}
+
+section .rte p:last-child{
+	margin-bottom: 0px !important;
+}
+*/
+/************************************
+| Fix marge contenu modulable | template contact
+************************************/
+.page-template-template-contact-php div[data-select-form] .wrapper{
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-bottom: 15px;
+}
+
+@media (min-width: 768px){
+	.page-template-template-contact-php div[data-select-form] .wrapper{
+		margin-bottom: 65px;
+	}
+}

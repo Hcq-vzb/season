@@ -1,0 +1,7 @@
+# HTTrack / local tooling
+hts-cache/
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini

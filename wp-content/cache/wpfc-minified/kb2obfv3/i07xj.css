@@ -1,0 +1,34 @@
+span.wpcf7-list-item{
+margin: 0px;
+} span.wpcf7-not-valid-tip{
+color: #ff5900;
+font-style: italic;
+font-size: 13px;
+padding-top: 5px;   
+}
+.wpcf7-response-output{
+border: none !important;
+text-align: center;
+}
+.wpcf7-response-output.wpcf7-validation-errors{
+color: #ff5900;	
+}
+.wpcf7-response-output.wpcf7-validation-success{
+color: #184287;	
+} .wpcf7 .field label + br{
+display: none;
+}
+.wpcf7 .error-msg{
+display: none;
+}   .heading-title{
+margin-bottom: 0px !important;
+}  .page-template-template-contact-php div[data-select-form] .wrapper{
+padding-left: 0px;
+padding-right: 0px;
+margin-bottom: 15px;
+}
+@media (min-width: 768px){
+.page-template-template-contact-php div[data-select-form] .wrapper{
+margin-bottom: 65px;
+}
+}

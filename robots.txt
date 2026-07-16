@@ -1,11 +1,29 @@
 User-agent: *
 Allow: /
 
-# Prefer English seasoning site pages
 Disallow: /wp-content/cache/
 Disallow: /hts-cache/
 Disallow: /*/feed/
 Disallow: /*index0816.html
+
+# Not KIWL core / Serac leftovers
+Disallow: /dairy/
+Disallow: /category/dairy/
+Disallow: /secteur/agrochemicals/
+Disallow: /secteur/paints-and-thinners/
+Disallow: /secteur/automotive-products-packaging/
+Disallow: /secteur/packaging-dairy-products/
+Disallow: /fonction/packaging-manufacturing-from-pet-preform-to-bottle/
+Disallow: /fonction/filling-sealing/
+Disallow: /machine/
+Disallow: /about-serac/
+Disallow: /serac-worldwide/
+Disallow: /fr/
+Disallow: /news/serac-
+Disallow: /news/appointment
+Disallow: /news/sbe-elite
+Disallow: /news/linea-xs
+Disallow: /packaging/serac-
 
 Sitemap: https://seasoningpackagingmachinery.com/sitemap.xml
 Sitemap: https://seasoningpackagingmachinery.com/sitemap-en.xml

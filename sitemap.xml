@@ -1,2250 +1,444 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/about-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/careers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/dairy/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/food/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/maintenance/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/news/page/8/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/non-food/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/packaging/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/passion-3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/treatment/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/treatment/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/treatment/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/treatment/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/category/treatment/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/contact-us/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/darmanto-setyawan-factory-director-greenfields-indonesia/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/dual-flavor-drinkable-yogurt-filling-line-at-800-bpm/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/linea-xs-an-asset-for-dessert-manufacturers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/malo-acquires-a-new-high-speed-filling-line/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/more-diversity-in-the-dairy-products-in-preformed-cups-in-middle-east-north-africa/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/naturalness-and-plant-based-milks-worldwide-drivers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/revolutionizing-dairy-industry-dairy-cups-filling-machines/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/serac-and-bude-group-have-commonly-developed-a-unique-net-weight-aseptic-monobloc-filler-crimper-for-whipped-cream-in-aerosols-at-high-speed/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/uht-whipped-cream-in-aerosol-cans-a-unique-expertise/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/dairy/unlock-the-full-potential-of-your-production-line-with-the-standalone-tcs-bottle-capper-for-dairy/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/engineering-packaging-lines/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/expertise-2/5-good-reasons-to-integrate-servo-motors-in-your-filling-lines/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/expertise-2/5-ways-of-reducing-your-spare-parts-budget/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/expertise-2/cwater-consumption-divided-by-7-and-cleaning-time-has-been-halved/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/expertise-2/toolings-how-to-ensure-a-quick-and-trouble-free-production-ramp-up-of-your-new-bottle-cap-formats/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/fonction/filling-capping/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-capping/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-capping/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-capping/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-capping/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-sealing/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-sealing/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/filling-sealing/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/fonction/line-integration/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/fonction/multifunction-block/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/multifunction-block/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fonction/packaging-manufacturing-from-pet-preform-to-bottle/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/dosage-when-creativity-and-technology-meet/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/future-trends-in-hot-sauce-bottle-design-and-their-impact-on-filling/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/innovative-solutions-food-filling/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/mastering-the-texture-and-consistency-of-light-sauces/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/food/net-weight-filler-capper-for-edible-oils-high-speed-precision-by-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/sauces-3-product-trends-that-reveal-the-benefits-of-weight-filling/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/the-impact-of-bottle-design-on-the-hot-sauce-filling-process/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/the-most-significant-technological-advances-in-food-packaging-in-2025/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/food/weigh-filling-machines-fors-auces/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/a-propos-de-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/1969-2019-serac-souffle-ses-50-bougies-cette-annee/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/26-marathoniens-une-meme-aventure/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/bec-modulo-loutil-incontournable-pour-gerer-la-panoplie-de-recettes-sur-une-seule-machine/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/blustream-un-oscar-de-lemballage-vient-recompenser-10-ans-defforts/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/bonne-annee-2021/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/bonne-annee-2022/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/conference-de-presse-interpack-2026/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/coronavirusus-mise-a-jour/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/covid-19-coronavirus/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/dans-les-coulisses-de-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/deces-de-jean-jacques-graffin-fondateur-de-lentreprise-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/inflation-penurie-de-composants-on-fait-quoi/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/jean-jacques-graffin-intronise-au-sein-du-packaging-processing-hall-of-fame-2022/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/le-bec-modulo-est-desormais-disponible-sur-les-machines-de-conditionnement-en-pots-form-fill-seal-ffs/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/le-bloc-soufflage-remplissage-bouchage-sinvite-sur-le-marche-japonais-des-produits-dhygiene/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/linea-xs-une-remplisseuse-tout-terrain-pour-des-cadences-allant-de-5000-a-12000-pots-heure/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/nomination-de-m-dino-chece-au-poste-de-directeur-general-du-groupe-serac/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/nomination-de-nicolas-ricard-au-poste-de-directeur-des-ventes-du-groupe/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/nomination-de-rose-graffin-en-tant-que-presidente-directrice-generale-de-serac-holding/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/nominations-de-thierry-adam-et-de-vincent-rulleau/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/renforcez-votre-engagement-en-faveur-du-developpement-durable-grace-a-serac-esl-combox/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/reprise-progressive-de-lactivite-dans-les-ateliers-dassemblage-de-groupe-serac-depuis-le-20-avril/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-aide-un-raffineur-a-demarrer-une-production-dhuile-vegetale-en-bouteille/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-co-developpe-sa-nouvelle-interface-homme-machine-avec-ses-clients/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-etend-sa-presence-mondiale-avec-louverture-dun-bureau-au-mexique/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-fait-lacquisition-de-doselec/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-fait-sa-revolution-numerique/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-forme-ses-auditeurs-qualite/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-inaugure-son-centre-dedie-a-linnovation/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-ouvre-un-bureau-a-moscou/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-ouvre-un-bureau-a-pune-en-inde/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/serac-ouvre-un-bureau-aux-emirats-arabes-unis-pour-servir-ses-clients-du-moyen-orient/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/sserac-installe-une-ligne-complete-pour-le-conditionnement-aseptique-de-boissons-laitieres-dans-lusine-ultra-moderne-de-food-union-en-chine/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/trois-combis-sidel-serac-pour-huile-alimentaire-installes-chez-lesieur/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus/une-souffleuse-qui-repond-au-besoin-de-flexibilite-des-producteurs/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/10/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/11/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/8/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/actus-tendances/page/9/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/dosage-quand-la-creativite-et-la-technologie-se-rencontrent/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/les-avancees-technologiques-les-plus-marquantes-dans-lemballage-alimentaire-en-2025/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/limpact-du-design-sur-le-remplissage-des-sauces-piquantes/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/maitriser-la-texture-et-la-consistance-des-sauces-allegees/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/sauces-3-tendances-produit-qui-demontrent-les-avantages-du-remplissage-ponderal/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/alimentaire/tendances-futures-dans-le-design-des-sauces-piquantes/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/assistance-technique/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/actus/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/alimentaire/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/emballage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/emballage/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/emballage/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/emballage/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/emballage/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/expertise/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/laiterie/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/maintenance-2/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/non-alimentaire/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/passion/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/traitement/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/traitement/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/traitement/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/traitement/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/category/traitement/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/emballage/emballage-verre-pourquoi-faut-il-preferer-la-reutilisation-au-recyclage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/emballage/le-consommateur-de-2040-une-nouvelle-ere-de-consommation-responsable-et-technologique/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/emballage/serac-etend-son-offre-de-services-a-la-conception-demballages/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/emballage/yaourt-en-pot-pet-presentation-de-la-cupbox-en-direct-des-ateliers-de-serac-france/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/emballage/yaourt-premium-pot-verre-ou-pet/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/bloc-multifonctions/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/bloc-multifonctions/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/dosage-operculage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/dosage-operculage/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/dosage-operculage/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/fabrication-demballage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/integration-de-ligne/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/remplissage-bouchage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/remplissage-bouchage/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/remplissage-bouchage/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/remplissage-bouchage/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/fonction/remplissage-bouchage/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/gouvernance/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/index-egalite-professionnelle/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/fr/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/darmanto-setyawan-directeur-dusine-greenfields-indonesia/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/doselec-nova-division-pots-un-nouveau-leader-mondial/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/les-desserts-lactes-sont-ils-toujours-plus-difficiles-a-doser/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/ligne-de-remplissage-de-yaourts-a-boire-double-saveur-a-800-emb-h/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/linea-xs-un-atout-pour-les-industriels-du-dessert/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/malo-fait-lacquisition-dune-nouvelle-ligne-de-conditionnement-haute-cadence/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/naturalite-et-laits-vegetaux-des-moteurs-au-niveau-mondial/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/serac-et-le-groupe-bude-ont-co-developpe-une-machine-de-conditionnement-de-creme-chantilly-en-aerosols-a-haute-cadence/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/serac-etend-son-offre-de-decontamination-des-pots-a-la-lumiere-pulsee/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/serac-etend-son-offre-de-soufflage-aux-pots-pet/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/laiterie/une-plus-grande-diversite-des-produits-laitiers-en-pots-preformes-au-moyen-orient-et-en-afrique-du-nord/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/2229-2237/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/combox-bloc-soufflage-remplissage-bouchage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/h2f/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/linea/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/nds/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/neo/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/rb/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/rc/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/sas-5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/sbl/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/machine/superblock/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/5-bonnes-raisons-dintegrer-des-servomoteurs-a-vos-lignes-de-remplissage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/5-pistes-pour-reduire-votre-budget-pieces-de-rechange/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/8-conseils-et-astuces-pour-bien-entretenir-votre-remplisseuse-de-sauces/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/le-moins-de-maintenance-possible-sur-nos-equipements-cest-ce-que-nous-voulons-chobani/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/outillage-5-bonnes-raisons-de-choisir-votre-equipementier-pour-vos-nouveaux-formats/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/une-consommation-deau-divisee-par-7-et-un-temps-de-lavage-reduit-de-moitie/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/maintenance-2/une-remplisseuse-reconditionnee-livrable-en-4-semaines/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/des-solutions-adaptees-aux-marches-des-produits-dentretien-menagers-et-de-soin-de-la-personne/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/le-remplissage-de-produits-menagers-corrosifs-pourquoi-linvestissement-a-long-terme-simpose/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/lle-remplissage-ponderal-saverent-un-avantage-incontestable-pour-le-conditionnement-des-soins-pour-cheveux/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/machine-de-remplissage-pour-lubrifiants-pourquoi-des-differences-de-prix/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/produits-dentretien-entre-passe-et-avenir-de-la-planete/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/non-alimentaire/une-cuve-bi-produit-qui-offre-de-nouvelles-opportunites-pour-les-conditionneurs-a-facon/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/nos-offres-demploi/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/nous-contacter/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/passion/le-pouvoir-de-la-passion/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/pieces-detachees/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/politique-de-confidentialite/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/boissons/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/entretien-auto/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/huiles-et-sauces/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/peinture-et-solvant/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/phytosanitaire/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/produits-laitiers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/produits-menagers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/secteur/soin-de-la-personne/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/serac-dans-le-monde/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/serac-est-nee-dune-idee-geniale/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/adapter-et-modfier-son-equipement/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/entretenir-sa-machine/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/formations/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/ligne-cles-en-mains/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/services/optimiser-son-outil-de-production/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/traitement/comment-reduire-la-consommation-deau-des-process-de-remplissage/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/traitement/e-beam-une-technologie-de-decontamination-sans-chimie-rapide-et-fiable/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/traitement/module-blustream-de-sterilisation-bouchons/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/fr/traitement/sources-alma-avance-resolument-vers-le-zero-chimie/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/governance/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/2229-2237/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/combox/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/h2f/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/linea/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/nds/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/neo/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/rb/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/rc/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/sas-5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/sbl/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/machine/superblock/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintain-your-machine/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/5-good-reasons-to-integrate-servo-motors-in-your-filling-lines/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/5-ways-of-reducing-your-spare-parts-budget/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/8-tips-and-tricks-to-maintain-your-sauce-filler/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/a-refurbished-filling-machine-deliverable-in-4-weeks/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/maintenance/as-little-maintenance-as-possible-is-what-we-want-in-our-equipment-chobani/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/cwater-consumption-divided-by-7-and-cleaning-time-has-been-halved/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/maintenance/tooling-5-good-reasons-to-choose-your-equipment-manufacturer-for-your-new-formats/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/new-features-hardware-and-software-upgrades/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/1969-2019-serac-blows-50-candles-this-year/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/26-marathoners-one-adventure/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/appointment-of-rose-graffin-chairman-of-the-board-ceo/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/appointment-of-roxana-rossette-as-the-new-general-manager-of-serac-midam/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/appointments-of-thierry-adam-and-vincent-rulleau/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/behind-the-scenes/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/blustream-10-years-of-effort-rewarded-with-an-oscar/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/coronavirusus-update/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/covid-19-coronavirus/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/dino-checes-appointment-as-chief-executive-officer-of-the-serac-group/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/doselec-nova-cup-division-a-new-world-leader/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/gradual-resumption-of-activity-in-our-assembly-workshops/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/happy-new-year-2021/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/happy-new-year-2022/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/here-are-different-approaches-for-industry-4-0/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/inflation-penurie-de-composants-on-fait-quoi/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/interpack-2026-discover-our-latest-developments/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/jean-jacques-graffin-maintains-innovation-at-serac-for-50-years/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/jj-graffin-is-inducted-into-the-2022-packaging-processing-hall-of-fame/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/linea-xs-an-all-terrain-filler-with-outputs-from-5000-to-12000-cups-h/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/nicolas-ricards-appointment-as-chief-sales-officer-of-serac-group/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/passing-away-of-jean-jacques-graffin-founder-of-serac/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/sbe-elite-a-blow-molding-machine-that-meets-producers-need-for-flexibility/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-acquires-doselec/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-asia-earns-prestigious-recognition-at-malaysia-technology-excellence-awards-2024/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-carries-out-its-digital-revolution/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-expands-its-global-presence-by-opening-an-office-in-mexico/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-helps-a-refiner-to-start-a-production-of-bottled-oil/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-inaugurates-its-innovation-center/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-installs-a-full-aseptic-bottling-line-at-food-unions-dong-ying-cutting-edge-dairy-factory-in-china/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-is-designing-its-new-hmi-with-its-customers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-opens-a-new-office-in-pune-india/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-opens-an-office-in-moscow/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-opens-an-office-in-united-arab-emirates-to-serve-its-middle-east-customers/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/serac-trains-its-quality-auditors/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/strengthen-your-commitment-to-sustainability-with-serac-esl-combox/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news/the-blow-fill-cap-block-sets-foot-on-the-japanese-personal-care-market/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/the-modulo-filling-nozzle-high-flexibility-in-recipe-changeover-2/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/the-modulo-nozzle-is-now-available-for-all-form-fill-seal-ffs-cup-packaging-lines/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news/three-sidel-and-serac-combis-for-edible-oil-have-been-installed-in-the-bottling-facility-of-lesieur/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/news-trends/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/10/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/11/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/12/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/13/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/2/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/3/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/4/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/5/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/6/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/7/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/8/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/news-trends/page/9/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.4</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/a-two-compartment-product-tank-offers-new-opportunities-especially-for-co-packers/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/chemical-products-why-favoring-long-term-investment-is-a-preferable-option/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/cleaning-products-between-the-planets-past-and-future/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/filling-of-corrosive-household-products-why-is-long-term-investment-still-a-preferable-option/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/non-food/lubricants-filling-machines-what-makes-the-price-difference/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/packaging-machines-suited-to-the-household-cleaning-products-and-personal-care-markets/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/rotary-weight-filling-proves-to-be-a-real-asset-for-process-optimization-on-the-highly-segmented-hair-care-market/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/non-food/the-history-of-the-lubricating-oil-industry/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/nos-offres-demploi/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/optimize-your-production/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/our-history/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/packaging/glass-packaging-why-choose-reuse-over-recycling/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/packaging/premium-yogurt-glass-or-pet-cup/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/packaging/serac-and-its-services-for-packaging-design/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/packaging/serac-extends-its-blow-molding-offer-to-pet-cups/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/packaging/the-consumer-of-2040-a-new-era-of-responsible-and-technological-consumption/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/packaging/yoghurt-in-pet-jars-presentation-of-the-cupbox-in-seracs-workshops/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/passion-3/the-power-of-passion/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/politique-de-confidentialite/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/secteur/agrochemicals/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/secteur/automotive-products-packaging/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/secteur/drinks/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/secteur/oils-and-sauces/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/secteur/packaging-dairy-products/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/secteur/packaging-household-products/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/secteur/paints-and-thinners/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/secteur/personal-care/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://seasoningpackagingmachinery.com/serac-worldwide/</loc>
-    <lastmod>2026-07-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/spare-parts/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/technical-support/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/trainings/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/treatment/e-beamfast-and-reliable-chemical-free-decontamination-technology/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/treatment/how-to-reduce-water-consumption-in-filling-processes/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/treatment/serac-commercialise-son-module-blustream-de-sterilisation-de-bouchons/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/treatment/serac-expands-its-cup-decontamination-offering-with-pulsed-light/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
-  <url>
+<url>
     <loc>https://seasoningpackagingmachinery.com/treatment/sources-alma-is-moving-towards-zero-chemistry/</loc>
     <lastmod>2026-07-16</lastmod>
     <changefreq>monthly</changefreq>

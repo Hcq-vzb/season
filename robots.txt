@@ -6,7 +6,7 @@ Disallow: /hts-cache/
 Disallow: /*/feed/
 Disallow: /*index0816.html
 
-# Not KIWL core / Serac leftovers
+# Serac leftovers / pyramid dilution
 Disallow: /dairy/
 Disallow: /category/dairy/
 Disallow: /secteur/agrochemicals/
@@ -18,13 +18,44 @@ Disallow: /fonction/filling-sealing/
 Disallow: /machine/
 Disallow: /about-serac/
 Disallow: /serac-worldwide/
-Disallow: /fr/
 Disallow: /news/serac-
 Disallow: /news/appointment
 Disallow: /news/sbe-elite
 Disallow: /news/linea-xs
+Disallow: /news/the-blow-fill-cap-block
 Disallow: /packaging/serac-
+Disallow: /packaging/premium-yogurt
+Disallow: /packaging/yoghurt-
+Disallow: /non-food/lubricants
+Disallow: /maintenance/as-little-maintenance-as-possible
+Disallow: /food/net-weight-filler-capper-for-edible-oils-high-speed-precision-by-serac
 
-# English-only commercial site
+# Old Serac French mirror (keep new KIWL /fr/ core pages indexable)
+Disallow: /fr/laiterie/
+Disallow: /fr/actus/
+Disallow: /fr/actus-tendances/
+Disallow: /fr/alimentaire/
+Disallow: /fr/non-alimentaire/
+Disallow: /fr/emballage/
+Disallow: /fr/maintenance-2/
+Disallow: /fr/machine/
+Disallow: /fr/a-propos-de-serac/
+Disallow: /fr/secteur/
+Disallow: /fr/fonction/
+Disallow: /fr/category/
+Disallow: /fr/services/
+Disallow: /fr/pieces-detachees/
+Disallow: /fr/traitement/
+Disallow: /fr/expertise/
+Disallow: /fr/passion/
+Disallow: /fr/serac-
+Disallow: /fr/nous-contacter/
+Disallow: /fr/assistance-technique/
+Disallow: /fr/gouvernance/
+Disallow: /fr/wp-json/
+Disallow: /fr/nos-offres-demploi/
+Disallow: /fr/index-egalite-professionnelle/
+Disallow: /fr/politique-de-confidentialite/
+
 Sitemap: https://seasoningpackagingmachinery.com/sitemap.xml
-Sitemap: https://seasoningpackagingmachinery.com/sitemap-en.xml
+Sitemap: https://seasoningpackagingmachinery.com/sitemap-fr.xml
